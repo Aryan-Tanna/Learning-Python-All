@@ -28,7 +28,7 @@ venv.bak/
 
 # --- Data & Datasets ---
 # Large data files should not be in Git. Use DVC, Git LFS, or cloud storage.
-
+*.csv
 *.json
 *.jsonl
 *.parquet
