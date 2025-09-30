@@ -1,0 +1,8 @@
+id,name,age,signup_date,email,purchase_amount,membership_level,phone
+1,Alice ,29.0,2021/01/05,alice@example.com,120.5,Gold,123‑4567
+2,Bob,,05-02-2021,bob at example dot com,,Silver,2345678
+3,Charlie,35.0,2021/03/15,charlie@example.com,300.0,Platinum,345‑6789
+4,David,28.0,,david@example.com,-20.0,gold,4567890
+5,Eve,30.0,2021/05/01,eve@example.com,150.0,Gold,
+6,Alice,29.0,2021/01/05,Alice@example.com,120.5,Gold,123‑4567
+7,Frank,40.0,2021-06-10,frank@example,200.0,,5678901

@@ -1,0 +1,1001 @@
+id,name,age,signup_date,email,purchase_amount,membership_level,phone
+1,Grace,102,2021-06-10,grace@mail.com,0,silver,123‑4567
+2,David,63,2021/01/05,david@mail.com,120.5,Gold,
+3,Hannah,56,2021/01/05,hannah@example,-50,silver,4567890
+4,Eve,59,2020/12/31,eve@example,300,Silver,2345678
+5,Grace,28,2021-06-10,grace at example dot com,,Silver,5678901
+6,Jack,60,2021-06-10,jack@example.com,200,,5678901
+7,Charlie,52,2021/01/05,charlie at example dot com,-50,gold,345‑6789
+8,Grace,64,2021/03/15,grace@mail.com,120.5,Silver,4567890
+9,Hannah,20,,hannah@example,-50,silver,345‑6789
+10,Eve,21,,eve@example,-50,gold,
+11,David,53,2021-06-10,david at example dot com,300,Silver,345‑6789
+12,Hannah,24,,hannah@example,-50,,123‑4567
+13,Hannah,58,2021/01/05,hannah@mail.com,200,Platinum,5678901
+14,Charlie,65,2021/01/05,charlie@example,0,,345‑6789
+15,Frank,44,2021-06-10,frank at example dot com,300,Gold,123‑4567
+16,Eve,47,2021-06-10,eve@mail.com,200,Silver,4567890
+17,Bob,25,2020/12/31,bob at example dot com,300,Gold,345‑6789
+18,Hannah,67,2021-06-10,hannah@example,200,Gold,
+19,Frank,45,2021/03/15,frank at example dot com,120.5,silver,
+20,Bob,30,,bob at example dot com,200,gold,
+21,Eve,56,2021-06-10,eve@example.com,75.5,silver,5678901
+22,Alice,57,05-02-2021,alice@example,200,Silver,345‑6789
+23,Jack,38,2020/12/31,jack@example,,Gold,4567890
+24,Frank,27,05-02-2021,frank at example dot com,,Platinum,345‑6789
+25,Ivan,39,2021/01/05,ivan@example.com,450.75,Gold,5678901
+26,Alice,,,alice@example,75.5,Platinum,123‑4567
+27,Jack,62,2021-06-10,jack@mail.com,75.5,silver,5678901
+28,Charlie,53,05-02-2021,charlie at example dot com,0,silver,
+29,Grace,37,,grace@example,75.5,gold,123‑4567
+30,David,42,2021/01/05,david@mail.com,0,Gold,
+31,Ivan,62,2021/03/15,ivan@example,450.75,,2345678
+32,Charlie,52,2020/12/31,charlie@mail.com,450.75,silver,5678901
+33,Eve,39,,eve at example dot com,120.5,silver,5678901
+34,Charlie,,,charlie@example,,gold,4567890
+35,Grace,67,2021/03/15,grace@example,200,Platinum,345‑6789
+36,Eve,56,,eve@example.com,200,gold,123‑4567
+37,Ivan,31,2021/01/05,ivan at example dot com,20,Gold,123‑4567
+38,Grace,37,2021/01/05,grace@mail.com,300,Silver,4567890
+39,Bob,63,2021/03/15,bob@example,120.5,Silver,4567890
+40,David,25,2020/12/31,david@example,20,Platinum,345‑6789
+41,Ivan,69,2021-06-10,ivan@mail.com,20,silver,
+42,Bob,25,05-02-2021,bob at example dot com,-50,Platinum,345‑6789
+43,Jack,26,2021-06-10,jack@example.com,-50,silver,5678901
+44,Ivan,68,,ivan@example.com,20,silver,
+45,Jack,69,05-02-2021,jack@example,75.5,Silver,2345678
+46,Eve,42,2021/03/15,eve@mail.com,300,Platinum,345‑6789
+47,Bob,57,2021/03/15,bob@example,120.5,gold,4567890
+48,David,51,2020/12/31,david@mail.com,20,silver,
+49,Grace,68,05-02-2021,grace@example.com,200,,345‑6789
+50,Hannah,41,2021/01/05,hannah at example dot com,300,,123‑4567
+51,Charlie,42,05-02-2021,charlie@mail.com,-50,gold,2345678
+52,Alice,27,,alice@example.com,200,,5678901
+53,David,54,2021/01/05,david@example,-50,Gold,123‑4567
+54,Bob,18,2021/03/15,bob@mail.com,-50,silver,123‑4567
+55,Hannah,23,05-02-2021,hannah at example dot com,300,gold,2345678
+56,David,34,2021-06-10,david@example,-50,Platinum,5678901
+57,Bob,43,2020/12/31,bob@example,450.75,silver,4567890
+58,Frank,50,2021-06-10,frank@example.com,,gold,
+59,Frank,43,2020/12/31,frank@mail.com,450.75,Silver,5678901
+60,Jack,33,,jack@example,,Platinum,345‑6789
+61,David,59,2021-06-10,david at example dot com,-50,Silver,123‑4567
+62,Frank,60,05-02-2021,frank@mail.com,120.5,silver,345‑6789
+63,Bob,67,05-02-2021,bob at example dot com,120.5,Platinum,4567890
+64,Jack,40,2021-06-10,jack@example,,,345‑6789
+65,Bob,41,05-02-2021,bob at example dot com,200,gold,5678901
+66,Jack,23,,jack@example.com,300,silver,345‑6789
+67,David,68,2021/01/05,david at example dot com,-50,Gold,4567890
+68,Hannah,22,,hannah@mail.com,300,Platinum,4567890
+69,Grace,69,2020/12/31,grace at example dot com,450.75,Platinum,4567890
+70,Ivan,40,,ivan at example dot com,120.5,silver,5678901
+71,Hannah,49,2020/12/31,hannah@example.com,75.5,silver,4567890
+72,Eve,65,05-02-2021,eve at example dot com,450.75,Silver,123‑4567
+73,Bob,45,2021/01/05,bob at example dot com,450.75,,4567890
+74,Eve,59,05-02-2021,eve@example,,Silver,345‑6789
+75,Hannah,38,2021/03/15,hannah@example,0,Silver,
+76,Jack,42,05-02-2021,jack@mail.com,450.75,,345‑6789
+77,Ivan,44,2020/12/31,ivan@example,-50,Gold,
+78,Ivan,66,05-02-2021,ivan@example,20,Silver,345‑6789
+79,Alice,37,05-02-2021,alice@example,20,Silver,5678901
+80,Ivan,65,2021/01/05,ivan@example,-50,Platinum,345‑6789
+81,Grace,23,05-02-2021,grace@example.com,0,,5678901
+82,Ivan,33,2021/01/05,ivan@example,0,gold,5678901
+83,Hannah,36,2021-06-10,hannah@example.com,,Gold,4567890
+84,Alice,57,2021/03/15,alice@example.com,120.5,Gold,123‑4567
+85,Hannah,65,2021/01/05,hannah@example,300,,
+86,Hannah,36,2020/12/31,hannah at example dot com,0,silver,4567890
+87,Charlie,38,2021-06-10,charlie@example.com,75.5,silver,4567890
+88,Alice,44,2021/01/05,alice at example dot com,,Platinum,5678901
+89,Hannah,56,2021/01/05,hannah at example dot com,200,Platinum,5678901
+90,Charlie,65,2021/03/15,charlie@example,,,
+91,Charlie,23,2020/12/31,charlie@mail.com,450.75,Platinum,345‑6789
+92,Alice,,,alice@example,300,Gold,345‑6789
+93,Eve,48,,eve@mail.com,200,Gold,4567890
+94,Jack,29,2021/01/05,jack@mail.com,200,gold,2345678
+95,Grace,46,05-02-2021,grace@example,75.5,silver,2345678
+96,Jack,39,2020/12/31,jack@example,75.5,,345‑6789
+97,Ivan,67,2021-06-10,ivan@mail.com,75.5,Silver,2345678
+98,Grace,35,05-02-2021,grace@example,,silver,345‑6789
+99,Ivan,48,05-02-2021,ivan@mail.com,300,Silver,5678901
+100,Hannah,46,2020/12/31,hannah at example dot com,,gold,4567890
+101,Bob,45,2021/01/05,bob@example,20,gold,123‑4567
+102,Alice,65,2021/01/05,alice at example dot com,450.75,Platinum,4567890
+103,Grace,61,2021/01/05,grace@example.com,450.75,gold,345‑6789
+104,Grace,45,2021/01/05,grace at example dot com,75.5,gold,345‑6789
+105,Hannah,46,,hannah at example dot com,20,Silver,4567890
+106,Eve,32,2021/01/05,eve@mail.com,0,Platinum,
+107,Charlie,56,,charlie at example dot com,0,gold,345‑6789
+108,Hannah,35,,hannah@example,75.5,silver,2345678
+109,Frank,34,2021/01/05,frank@mail.com,,gold,2345678
+110,Charlie,,2021/03/15,charlie@example.com,75.5,Platinum,345‑6789
+111,Alice,30,2021-06-10,alice@example,120.5,,345‑6789
+112,Charlie,67,05-02-2021,charlie@example.com,200,Platinum,
+113,Eve,63,,eve at example dot com,450.75,Silver,2345678
+114,Charlie,66,2020/12/31,charlie@example,0,,345‑6789
+115,Alice,18,2020/12/31,alice@example,-50,silver,345‑6789
+116,Eve,44,2021-06-10,eve@example.com,0,Gold,
+117,Jack,65,2020/12/31,jack@example,450.75,Platinum,
+118,Grace,66,2021/03/15,grace@example,200,Silver,4567890
+119,Grace,46,2020/12/31,grace@example,450.75,silver,
+120,Ivan,54,05-02-2021,ivan at example dot com,-50,,123‑4567
+121,Jack,67,05-02-2021,jack@example.com,75.5,silver,2345678
+122,Jack,20,,jack@example,20,Platinum,4567890
+123,Charlie,,2021/01/05,charlie@mail.com,-50,gold,123‑4567
+124,Grace,24,2021/03/15,grace@mail.com,450.75,Platinum,345‑6789
+125,Alice,45,,alice@mail.com,450.75,Gold,345‑6789
+126,David,55,2021/03/15,david@mail.com,120.5,Platinum,4567890
+127,David,19,2021/01/05,david at example dot com,120.5,,
+128,Eve,48,2020/12/31,eve@example,300,,345‑6789
+129,Grace,26,2020/12/31,grace@example.com,120.5,Platinum,5678901
+130,Grace,26,2021/01/05,grace@example,,,4567890
+131,David,35,,david at example dot com,20,gold,123‑4567
+132,Grace,62,2021/01/05,grace@mail.com,200,silver,4567890
+133,Charlie,50,2021-06-10,charlie at example dot com,-50,Platinum,2345678
+134,Frank,49,05-02-2021,frank@example,450.75,gold,
+135,Bob,39,,bob@example.com,300,silver,
+136,Jack,44,2021/03/15,jack at example dot com,300,silver,4567890
+137,Ivan,48,2021-06-10,ivan@example.com,200,gold,345‑6789
+138,Eve,66,,eve at example dot com,20,Silver,345‑6789
+139,Frank,23,2021/01/05,frank@example.com,-50,Platinum,5678901
+140,David,45,2021/01/05,david@example.com,0,silver,5678901
+141,Jack,24,2021/01/05,jack@mail.com,120.5,silver,
+142,Grace,,2021/01/05,grace@example.com,75.5,,5678901
+143,Ivan,19,2021/03/15,ivan@mail.com,300,silver,123‑4567
+144,Grace,40,2021-06-10,grace@example,120.5,gold,5678901
+145,Alice,39,2020/12/31,alice@example,120.5,silver,123‑4567
+146,Alice,24,05-02-2021,alice@mail.com,,Silver,5678901
+147,Ivan,63,2021/03/15,ivan@mail.com,20,Platinum,
+148,Ivan,53,2021/03/15,ivan at example dot com,75.5,Platinum,
+149,David,19,2020/12/31,david at example dot com,0,silver,123‑4567
+150,Ivan,67,2020/12/31,ivan at example dot com,450.75,Gold,4567890
+151,Charlie,49,05-02-2021,charlie@example,,Gold,
+152,Grace,44,05-02-2021,grace at example dot com,120.5,gold,4567890
+153,Frank,63,2020/12/31,frank@example.com,120.5,Gold,345‑6789
+154,Hannah,24,2021/01/05,hannah@example.com,75.5,gold,123‑4567
+155,Ivan,50,2021/03/15,ivan at example dot com,75.5,,
+156,Eve,51,,eve@example.com,75.5,gold,2345678
+157,Alice,48,05-02-2021,alice@example,120.5,Gold,345‑6789
+158,Charlie,40,05-02-2021,charlie@example.com,300,silver,4567890
+159,Jack,30,2020/12/31,jack@example,-50,,
+160,Hannah,48,2021-06-10,hannah@mail.com,120.5,Gold,123‑4567
+161,Frank,62,,frank@mail.com,,gold,5678901
+162,Hannah,59,,hannah@mail.com,20,Silver,2345678
+163,Ivan,32,05-02-2021,ivan@mail.com,0,Platinum,4567890
+164,David,20,2021/01/05,david@example.com,450.75,Gold,345‑6789
+165,Alice,68,2021-06-10,alice at example dot com,0,gold,123‑4567
+166,Alice,53,,alice@example.com,120.5,,2345678
+167,Jack,37,05-02-2021,jack@example,,Gold,123‑4567
+168,David,30,,david@example.com,120.5,Gold,
+169,Grace,47,2021-06-10,grace@example.com,20,Platinum,5678901
+170,Bob,64,2021-06-10,bob@example,300,gold,345‑6789
+171,Charlie,34,2021/03/15,charlie@mail.com,450.75,Silver,123‑4567
+172,Alice,23,2020/12/31,alice@mail.com,20,,4567890
+173,Eve,26,2020/12/31,eve@mail.com,120.5,gold,
+174,Alice,23,05-02-2021,alice at example dot com,,,
+175,Hannah,49,2021-06-10,hannah@example,20,Gold,345‑6789
+176,Alice,39,2021/03/15,alice@example,200,Platinum,
+177,Alice,37,2021/03/15,alice@example.com,,Platinum,4567890
+178,Bob,35,,bob at example dot com,300,silver,123‑4567
+179,Bob,64,,bob@mail.com,120.5,Silver,345‑6789
+180,Frank,35,2021/03/15,frank at example dot com,75.5,Platinum,
+181,Grace,52,,grace@example,450.75,Gold,
+182,Eve,45,2021-06-10,eve@example,-50,Silver,4567890
+183,Alice,34,2021/01/05,alice@example.com,75.5,gold,5678901
+184,Alice,18,2021-06-10,alice@example.com,120.5,Platinum,5678901
+185,Charlie,,2021/03/15,charlie@example,200,Silver,
+186,Bob,63,2021/03/15,bob@mail.com,75.5,Gold,123‑4567
+187,Eve,21,2021-06-10,eve@mail.com,450.75,silver,345‑6789
+188,Jack,36,,jack at example dot com,,,
+189,Frank,27,,frank@example,200,,2345678
+190,Grace,58,2020/12/31,grace@example,200,Gold,345‑6789
+191,David,18,2021/03/15,david@mail.com,20,Gold,5678901
+192,Grace,19,05-02-2021,grace@mail.com,450.75,,
+193,Hannah,39,2020/12/31,hannah@example,75.5,silver,4567890
+194,Alice,28,,alice@example.com,20,Silver,2345678
+195,Frank,36,2021-06-10,frank@example,200,,
+196,Hannah,21,,hannah@example,20,Gold,123‑4567
+197,Eve,53,2021-06-10,eve@mail.com,0,Platinum,2345678
+198,David,54,2020/12/31,david@mail.com,450.75,gold,
+199,Bob,46,2021/03/15,bob@example.com,300,silver,123‑4567
+200,Frank,25,,frank@example.com,,silver,2345678
+201,Frank,50,2021-06-10,frank at example dot com,200,Platinum,123‑4567
+202,Alice,69,2021/03/15,alice@example,450.75,Platinum,123‑4567
+203,Ivan,60,05-02-2021,ivan@mail.com,300,Gold,2345678
+204,Frank,51,2021-06-10,frank@example.com,300,,2345678
+205,Charlie,68,2020/12/31,charlie at example dot com,120.5,Silver,123‑4567
+206,David,38,05-02-2021,david at example dot com,20,silver,5678901
+207,David,60,05-02-2021,david@mail.com,300,silver,2345678
+208,Charlie,40,2021/01/05,charlie@mail.com,0,Platinum,
+209,Jack,33,,jack at example dot com,450.75,,345‑6789
+210,Charlie,26,2021-06-10,charlie@example.com,-50,silver,4567890
+211,Charlie,46,05-02-2021,charlie at example dot com,-50,Silver,123‑4567
+212,David,62,2021/01/05,david@example,200,Platinum,123‑4567
+213,Grace,39,2020/12/31,grace@example,20,Silver,4567890
+214,David,48,2021/03/15,david@mail.com,300,,5678901
+215,Ivan,33,2021-06-10,ivan@example.com,450.75,silver,4567890
+216,Alice,66,05-02-2021,alice@example.com,200,gold,2345678
+217,Hannah,67,,hannah@example,75.5,silver,4567890
+218,Grace,33,2021/01/05,grace at example dot com,300,,123‑4567
+219,Bob,30,05-02-2021,bob@mail.com,20,silver,4567890
+220,Hannah,25,,hannah at example dot com,-50,silver,345‑6789
+221,Alice,56,05-02-2021,alice at example dot com,120.5,Gold,
+222,Ivan,18,2021-06-10,ivan at example dot com,450.75,silver,2345678
+223,Ivan,61,2021-06-10,ivan@example.com,,silver,4567890
+224,Bob,41,2021-06-10,bob@example,200,Silver,123‑4567
+225,Grace,55,2020/12/31,grace@example.com,450.75,gold,
+226,Jack,25,2020/12/31,jack@example,450.75,Silver,2345678
+227,Charlie,38,2021/01/05,charlie@mail.com,0,Silver,123‑4567
+228,Grace,59,2021-06-10,grace@mail.com,75.5,Platinum,5678901
+229,Jack,62,,jack at example dot com,300,Gold,345‑6789
+230,Ivan,20,05-02-2021,ivan@example,300,Silver,5678901
+231,David,42,2021/03/15,david@example,20,,345‑6789
+232,Alice,45,,alice@example,,,4567890
+233,Bob,61,2020/12/31,bob at example dot com,,silver,2345678
+234,Alice,50,2020/12/31,alice at example dot com,20,Platinum,4567890
+235,Eve,39,,eve@mail.com,120.5,Gold,345‑6789
+236,Eve,53,2020/12/31,eve@example.com,300,Gold,345‑6789
+237,Grace,27,2021-06-10,grace@example,120.5,silver,345‑6789
+238,Ivan,22,2021/01/05,ivan@example,450.75,,
+239,Ivan,34,05-02-2021,ivan@example.com,450.75,gold,123‑4567
+240,Charlie,37,2021/01/05,charlie@example,-50,Platinum,2345678
+241,Charlie,58,05-02-2021,charlie at example dot com,,silver,4567890
+242,Charlie,52,05-02-2021,charlie at example dot com,-50,Platinum,4567890
+243,David,57,2021/01/05,david@example,75.5,,5678901
+244,Hannah,54,,hannah at example dot com,20,,345‑6789
+245,Frank,50,05-02-2021,frank at example dot com,20,gold,345‑6789
+246,Hannah,33,2021/01/05,hannah@example,450.75,gold,345‑6789
+247,Alice,53,05-02-2021,alice@mail.com,300,Gold,4567890
+248,Hannah,41,2021/03/15,hannah@example.com,120.5,Platinum,5678901
+249,David,54,,david at example dot com,,Platinum,123‑4567
+250,Alice,28,2021-06-10,alice@mail.com,-50,,
+251,Hannah,39,05-02-2021,hannah at example dot com,120.5,Gold,2345678
+252,David,69,2021/03/15,david at example dot com,-50,silver,123‑4567
+253,Frank,58,2021-06-10,frank@example.com,75.5,Platinum,4567890
+254,Hannah,38,2021-06-10,hannah at example dot com,75.5,Gold,
+255,David,37,05-02-2021,david@example.com,120.5,Gold,
+256,Charlie,43,2021/01/05,charlie@example.com,120.5,,
+257,Ivan,47,05-02-2021,ivan@example.com,120.5,Gold,345‑6789
+258,Charlie,22,2021/03/15,charlie@mail.com,-50,gold,2345678
+259,Ivan,43,2021-06-10,ivan@example,0,gold,4567890
+260,Bob,56,05-02-2021,bob@mail.com,120.5,Silver,4567890
+261,Bob,50,2021/01/05,bob@example,300,,
+262,Bob,28,05-02-2021,bob@example,,silver,4567890
+263,Frank,61,,frank@example.com,,Silver,2345678
+264,Charlie,69,2021/01/05,charlie at example dot com,-50,gold,2345678
+265,Ivan,23,2021/03/15,ivan@example.com,120.5,Silver,5678901
+266,David,26,2021-06-10,david at example dot com,450.75,,5678901
+267,Alice,61,05-02-2021,alice@example,20,,123‑4567
+268,David,33,2021/01/05,david@example.com,0,Gold,2345678
+269,Alice,42,,alice at example dot com,300,Platinum,2345678
+270,Eve,37,2021/01/05,eve@mail.com,450.75,Gold,2345678
+271,David,44,2020/12/31,david at example dot com,75.5,,5678901
+272,Hannah,62,,hannah@example.com,450.75,gold,
+273,Hannah,18,2021/03/15,hannah@mail.com,-50,silver,
+274,Grace,59,2021-06-10,grace at example dot com,0,gold,4567890
+275,Charlie,,2021/03/15,charlie at example dot com,200,Gold,
+276,Alice,67,05-02-2021,alice at example dot com,200,silver,345‑6789
+277,Alice,69,2021/01/05,alice at example dot com,120.5,,5678901
+278,Charlie,52,2020/12/31,charlie at example dot com,120.5,gold,2345678
+279,Frank,67,,frank@mail.com,-50,,
+280,Grace,42,,grace@example,120.5,silver,5678901
+281,Frank,45,2021/01/05,frank@mail.com,20,silver,
+282,Frank,37,2020/12/31,frank@mail.com,0,gold,123‑4567
+283,Frank,27,2021/01/05,frank@mail.com,-50,,2345678
+284,Charlie,56,05-02-2021,charlie@example,,Silver,123‑4567
+285,Frank,27,2021/03/15,frank@example.com,75.5,,2345678
+286,Hannah,52,,hannah@example,-50,silver,5678901
+287,Bob,65,05-02-2021,bob@mail.com,-50,,4567890
+288,Eve,55,2021/03/15,eve at example dot com,200,Gold,
+289,Alice,56,05-02-2021,alice at example dot com,300,Silver,
+290,Alice,51,2020/12/31,alice@mail.com,300,Platinum,345‑6789
+291,Eve,50,,eve at example dot com,20,Gold,123‑4567
+292,Charlie,63,2021/01/05,charlie@mail.com,,Platinum,
+293,David,40,2021/01/05,david at example dot com,200,gold,5678901
+294,Charlie,38,2021/03/15,charlie@example,,Platinum,4567890
+295,Alice,21,2021-06-10,alice@example.com,20,,5678901
+296,Alice,49,2020/12/31,alice@example.com,300,Platinum,123‑4567
+297,Eve,52,2021/03/15,eve@example,-50,silver,345‑6789
+298,Frank,63,2021-06-10,frank@example,120.5,Gold,
+299,Charlie,36,05-02-2021,charlie@mail.com,120.5,Gold,5678901
+300,Ivan,35,2020/12/31,ivan@mail.com,450.75,Platinum,2345678
+301,Eve,51,05-02-2021,eve@mail.com,75.5,Gold,4567890
+302,Hannah,68,,hannah at example dot com,20,silver,5678901
+303,Alice,59,2020/12/31,alice@mail.com,75.5,Gold,4567890
+304,Eve,33,2021-06-10,eve@example,75.5,Platinum,
+305,Charlie,61,,charlie@example.com,300,Silver,2345678
+306,Alice,59,2021/01/05,alice at example dot com,300,Silver,345‑6789
+307,David,50,2021-06-10,david@mail.com,-50,gold,345‑6789
+308,Eve,25,2021/03/15,eve at example dot com,200,Gold,2345678
+309,Grace,42,2021/01/05,grace at example dot com,300,Platinum,4567890
+310,Alice,18,2021/01/05,alice@mail.com,120.5,Gold,
+311,Charlie,69,2021/03/15,charlie at example dot com,75.5,,5678901
+312,Bob,25,2020/12/31,bob@example.com,450.75,silver,2345678
+313,Ivan,25,2021/01/05,ivan@example,0,Gold,123‑4567
+314,Jack,56,2021-06-10,jack@example,20,Gold,4567890
+315,Frank,33,,frank@example.com,450.75,Silver,345‑6789
+316,Jack,,2021/01/05,jack at example dot com,120.5,silver,2345678
+317,Charlie,41,2021-06-10,charlie@mail.com,300,Platinum,345‑6789
+318,Hannah,59,05-02-2021,hannah at example dot com,200,Gold,4567890
+319,Hannah,56,2021-06-10,hannah@example.com,-50,Silver,345‑6789
+320,Bob,58,,bob at example dot com,0,gold,2345678
+321,Frank,41,2021-06-10,frank@example,,silver,4567890
+322,Grace,55,2021/03/15,grace at example dot com,450.75,Silver,123‑4567
+323,Bob,51,,bob@example.com,200,Silver,2345678
+324,Jack,19,2020/12/31,jack@example,,Silver,5678901
+325,Bob,66,05-02-2021,bob at example dot com,0,Gold,
+326,Jack,53,2021/03/15,jack at example dot com,20,Gold,2345678
+327,Alice,60,2020/12/31,alice@example,20,gold,4567890
+328,Hannah,60,2021-06-10,hannah@mail.com,75.5,,
+329,Alice,67,,alice@example,0,,2345678
+330,Ivan,46,05-02-2021,ivan@mail.com,0,,123‑4567
+331,Frank,54,2021/03/15,frank@example.com,,silver,123‑4567
+332,Grace,50,2020/12/31,grace@example.com,200,silver,5678901
+333,Jack,28,2020/12/31,jack@example,,gold,345‑6789
+334,Grace,35,05-02-2021,grace@example,-50,silver,
+335,Jack,53,2021-06-10,jack@example.com,20,,4567890
+336,Charlie,60,05-02-2021,charlie@mail.com,20,,4567890
+337,Bob,65,2020/12/31,bob@example.com,75.5,Silver,345‑6789
+338,Ivan,33,2021/01/05,ivan@example,-50,silver,123‑4567
+339,Hannah,26,2021/03/15,hannah@example.com,20,Gold,123‑4567
+340,Jack,65,05-02-2021,jack@example,,Gold,2345678
+341,Grace,63,2020/12/31,grace@example,-50,Silver,5678901
+342,Ivan,28,2021-06-10,ivan@example.com,,Silver,
+343,David,32,2020/12/31,david@mail.com,20,Silver,5678901
+344,David,40,2021-06-10,david at example dot com,20,Gold,5678901
+345,Alice,35,05-02-2021,alice@example.com,200,,2345678
+346,Hannah,24,2021-06-10,hannah at example dot com,450.75,Silver,5678901
+347,Charlie,47,,charlie@example.com,450.75,gold,345‑6789
+348,Grace,37,,grace at example dot com,75.5,Silver,2345678
+349,Bob,33,,bob@mail.com,,Platinum,345‑6789
+350,Bob,39,2021/01/05,bob@mail.com,,Silver,2345678
+351,Grace,53,05-02-2021,grace@example.com,120.5,Gold,5678901
+352,Frank,32,2020/12/31,frank@example,-50,silver,345‑6789
+353,Charlie,22,2020/12/31,charlie at example dot com,300,Silver,345‑6789
+354,Ivan,24,2021/01/05,ivan@example,450.75,silver,345‑6789
+355,Jack,41,2021-06-10,jack@example,20,Platinum,2345678
+356,Frank,34,2021/01/05,frank@example,75.5,gold,4567890
+357,Jack,41,2021-06-10,jack@mail.com,300,silver,5678901
+358,Jack,28,2021-06-10,jack@example.com,0,,345‑6789
+359,Frank,31,2021/03/15,frank@example.com,75.5,Silver,
+360,Alice,42,2020/12/31,alice@mail.com,0,Platinum,4567890
+361,David,57,,david@mail.com,0,Platinum,
+362,Jack,61,2021-06-10,jack@example.com,0,silver,5678901
+363,Frank,42,2021/03/15,frank@example,200,gold,5678901
+364,Frank,63,2020/12/31,frank at example dot com,200,Gold,345‑6789
+365,Eve,48,,eve at example dot com,200,Silver,345‑6789
+366,Alice,26,2021-06-10,alice at example dot com,300,Platinum,2345678
+367,Hannah,32,2021-06-10,hannah@example,75.5,gold,4567890
+368,Eve,23,2021/01/05,eve@example.com,75.5,,4567890
+369,Eve,33,2021/01/05,eve@mail.com,20,Platinum,345‑6789
+370,Grace,39,2020/12/31,grace@example.com,200,gold,5678901
+371,David,42,,david@example,20,Gold,345‑6789
+372,Frank,37,2021-06-10,frank@mail.com,-50,Gold,5678901
+373,David,38,2020/12/31,david@example,20,Platinum,5678901
+374,Charlie,23,2020/12/31,charlie at example dot com,300,Platinum,345‑6789
+375,Grace,30,05-02-2021,grace at example dot com,450.75,silver,123‑4567
+376,Hannah,31,2021/01/05,hannah@example,0,Silver,4567890
+377,David,69,,david@mail.com,200,gold,
+378,Bob,23,2021-06-10,bob@mail.com,450.75,Platinum,5678901
+379,Jack,25,2020/12/31,jack@example.com,20,Silver,5678901
+380,Charlie,67,2021-06-10,charlie at example dot com,0,silver,123‑4567
+381,Alice,64,05-02-2021,alice@example.com,75.5,Silver,
+382,Hannah,24,,hannah@example.com,,Platinum,2345678
+383,Charlie,66,2020/12/31,charlie@example,0,Gold,123‑4567
+384,Jack,39,2021-06-10,jack@example,300,gold,
+385,Grace,45,2021/01/05,grace@example.com,300,gold,123‑4567
+386,Jack,34,05-02-2021,jack at example dot com,20,Gold,5678901
+387,Eve,47,,eve@example,-50,Platinum,4567890
+388,Jack,46,05-02-2021,jack@example.com,300,gold,123‑4567
+389,Eve,68,2021/01/05,eve@example.com,300,Platinum,2345678
+390,Grace,55,,grace@example.com,20,silver,345‑6789
+391,Ivan,51,05-02-2021,ivan@example.com,0,Platinum,
+392,Eve,34,2021/03/15,eve@example.com,-50,Silver,123‑4567
+393,Alice,58,2021/01/05,alice@example.com,450.75,Gold,123‑4567
+394,Jack,55,2021/01/05,jack@example,,Platinum,2345678
+395,Jack,33,2021/01/05,jack at example dot com,200,silver,4567890
+396,Alice,30,2021/03/15,alice@example.com,75.5,,123‑4567
+397,Bob,47,2021/03/15,bob@mail.com,300,Gold,123‑4567
+398,Frank,40,2021-06-10,frank@example,20,gold,4567890
+399,Ivan,51,2020/12/31,ivan@example,200,Silver,2345678
+400,Hannah,60,05-02-2021,hannah@example.com,75.5,gold,
+401,Eve,61,2021-06-10,eve@example,75.5,silver,
+402,Alice,50,05-02-2021,alice@example.com,450.75,silver,123‑4567
+403,Grace,19,2020/12/31,grace at example dot com,450.75,gold,4567890
+404,Eve,53,2021/03/15,eve at example dot com,450.75,Gold,123‑4567
+405,Frank,59,2020/12/31,frank@example,120.5,gold,345‑6789
+406,Grace,56,2021/03/15,grace@example,120.5,Platinum,
+407,Charlie,42,2020/12/31,charlie@mail.com,75.5,gold,5678901
+408,Jack,39,2021-06-10,jack@example,450.75,Silver,345‑6789
+409,Charlie,60,,charlie@mail.com,300,Silver,123‑4567
+410,Eve,55,2021-06-10,eve at example dot com,200,,2345678
+411,Frank,31,05-02-2021,frank at example dot com,200,Silver,
+412,Ivan,65,2021-06-10,ivan@example.com,120.5,gold,5678901
+413,Eve,20,2021/01/05,eve at example dot com,75.5,Silver,345‑6789
+414,Alice,45,05-02-2021,alice@mail.com,20,Gold,
+415,David,38,2020/12/31,david@example,0,Silver,4567890
+416,Eve,41,05-02-2021,eve@example.com,0,Platinum,2345678
+417,Jack,29,,jack@mail.com,120.5,Gold,345‑6789
+418,Jack,34,2021/03/15,jack@example,20,,4567890
+419,Eve,49,2020/12/31,eve@example.com,120.5,Platinum,123‑4567
+420,Grace,32,05-02-2021,grace at example dot com,0,gold,4567890
+421,David,61,2020/12/31,david@mail.com,20,gold,345‑6789
+422,Alice,58,2020/12/31,alice@example,450.75,gold,345‑6789
+423,Eve,60,2020/12/31,eve@example.com,75.5,Platinum,123‑4567
+424,Grace,18,2021/03/15,grace@example.com,200,Platinum,4567890
+425,Jack,51,2021-06-10,jack at example dot com,-50,Platinum,4567890
+426,Jack,58,2020/12/31,jack@example,75.5,Gold,123‑4567
+427,Frank,50,2021/01/05,frank at example dot com,450.75,silver,4567890
+428,Eve,46,,eve at example dot com,0,Gold,
+429,David,29,2021/03/15,david@example,450.75,gold,123‑4567
+430,Bob,29,05-02-2021,bob@example,120.5,silver,2345678
+431,David,34,2021/03/15,david@example,20,Silver,345‑6789
+432,Jack,48,05-02-2021,jack@mail.com,200,gold,2345678
+433,Jack,48,2021/03/15,jack@example,300,,
+434,Charlie,51,05-02-2021,charlie@example.com,120.5,Gold,
+435,Jack,55,2020/12/31,jack at example dot com,75.5,Platinum,5678901
+436,Alice,62,2021-06-10,alice@mail.com,120.5,Gold,5678901
+437,Hannah,68,05-02-2021,hannah@example,75.5,Platinum,5678901
+438,Eve,45,05-02-2021,eve@mail.com,300,silver,123‑4567
+439,David,65,2021/01/05,david@example,,,4567890
+440,Hannah,45,05-02-2021,hannah@mail.com,200,silver,
+441,Grace,69,2021/01/05,grace at example dot com,-50,,2345678
+442,Bob,60,,bob at example dot com,450.75,Gold,2345678
+443,Alice,32,2020/12/31,alice@example.com,,Platinum,2345678
+444,David,60,2021/01/05,david@example.com,120.5,silver,2345678
+445,Hannah,63,2021-06-10,hannah@example,450.75,,5678901
+446,Bob,26,2020/12/31,bob at example dot com,,gold,2345678
+447,Charlie,46,2021/01/05,charlie@mail.com,20,gold,4567890
+448,Alice,41,2020/12/31,alice@mail.com,20,silver,5678901
+449,Alice,55,2020/12/31,alice@mail.com,450.75,Platinum,2345678
+450,Charlie,36,2020/12/31,charlie@example.com,75.5,silver,123‑4567
+451,Eve,21,,eve@mail.com,75.5,Gold,345‑6789
+452,Charlie,,2021-06-10,charlie@example.com,120.5,,345‑6789
+453,Alice,46,2021/03/15,alice@example.com,,Gold,345‑6789
+454,Alice,65,2021/03/15,alice@example,,gold,5678901
+455,Hannah,19,2021/01/05,hannah@mail.com,450.75,,2345678
+456,Jack,61,2020/12/31,jack@mail.com,0,silver,
+457,Bob,30,2021/01/05,bob at example dot com,20,Gold,
+458,Charlie,46,,charlie@example,,Silver,
+459,Bob,66,,bob at example dot com,450.75,Platinum,5678901
+460,Charlie,20,05-02-2021,charlie@example,300,Platinum,4567890
+461,Grace,34,,grace@mail.com,-50,Silver,123‑4567
+462,Alice,53,05-02-2021,alice@example.com,300,gold,123‑4567
+463,Jack,41,2021-06-10,jack@example.com,200,,345‑6789
+464,Hannah,64,2021/01/05,hannah@example.com,120.5,Platinum,345‑6789
+465,Jack,,2021-06-10,jack@example.com,,Silver,
+466,Jack,69,,jack@example.com,200,silver,
+467,Jack,62,2021-06-10,jack at example dot com,200,Silver,345‑6789
+468,Bob,31,2021-06-10,bob@example,450.75,gold,2345678
+469,Charlie,25,2021-06-10,charlie@mail.com,,gold,4567890
+470,Ivan,31,,ivan at example dot com,-50,Gold,4567890
+471,Grace,65,2020/12/31,grace@example,450.75,Platinum,4567890
+472,David,40,2021-06-10,david@example.com,450.75,Gold,4567890
+473,Jack,20,05-02-2021,jack@example,120.5,Silver,345‑6789
+474,Eve,28,,eve@example,120.5,,123‑4567
+475,Bob,53,2021-06-10,bob@example.com,20,,345‑6789
+476,Hannah,53,2020/12/31,hannah@example.com,20,gold,4567890
+477,David,59,,david@example.com,75.5,,345‑6789
+478,Ivan,22,2021/03/15,ivan@mail.com,0,,4567890
+479,Eve,55,2020/12/31,eve@example.com,,,5678901
+480,Ivan,62,05-02-2021,ivan@mail.com,,Silver,
+481,David,40,2021-06-10,david@example.com,200,,123‑4567
+482,Jack,27,2021/03/15,jack@mail.com,,silver,5678901
+483,Eve,29,2021/03/15,eve@example,,,2345678
+484,Ivan,50,,ivan at example dot com,0,,345‑6789
+485,Hannah,41,2021/03/15,hannah@example,20,Gold,2345678
+486,Charlie,23,05-02-2021,charlie@example,20,Silver,345‑6789
+487,Alice,68,05-02-2021,alice@example.com,-50,gold,
+488,Charlie,20,2021/01/05,charlie@mail.com,,Gold,5678901
+489,David,24,05-02-2021,david at example dot com,0,Platinum,
+490,Bob,36,2020/12/31,bob@example.com,20,Silver,4567890
+491,Alice,45,2021/03/15,alice@example.com,0,silver,
+492,Grace,69,05-02-2021,grace@example.com,300,Silver,
+493,Hannah,67,,hannah@example,,Platinum,4567890
+494,Grace,61,2021/01/05,grace@mail.com,-50,Platinum,345‑6789
+495,Eve,62,2021/03/15,eve@mail.com,200,Platinum,4567890
+496,Alice,26,2021/01/05,alice at example dot com,20,gold,5678901
+497,Grace,59,2021/03/15,grace@mail.com,300,,
+498,Grace,50,,grace@mail.com,0,Silver,4567890
+499,Ivan,42,2021/01/05,ivan@example.com,120.5,,
+500,Charlie,57,2021-06-10,charlie@example.com,450.75,,5678901
+501,Ivan,65,2020/12/31,ivan@example,,silver,2345678
+502,Alice,19,2020/12/31,alice@example.com,,Platinum,5678901
+503,Alice,22,2021/03/15,alice@example.com,300,gold,123‑4567
+504,David,21,2021-06-10,david@example.com,0,silver,123‑4567
+505,Ivan,21,2021/01/05,ivan@example.com,75.5,Gold,123‑4567
+506,Frank,63,2021-06-10,frank@example,,gold,
+507,Charlie,39,2021-06-10,charlie@example.com,75.5,,345‑6789
+508,Alice,65,2021/01/05,alice at example dot com,120.5,gold,345‑6789
+509,David,25,,david at example dot com,300,Platinum,345‑6789
+510,Ivan,51,2021-06-10,ivan at example dot com,0,Gold,
+511,Charlie,36,2021-06-10,charlie at example dot com,0,Platinum,5678901
+512,Ivan,65,,ivan@example.com,450.75,Gold,345‑6789
+513,Grace,58,2021-06-10,grace at example dot com,20,silver,2345678
+514,David,51,2021-06-10,david@example.com,20,,123‑4567
+515,Charlie,66,2021-06-10,charlie@example,200,Gold,5678901
+516,Jack,34,2020/12/31,jack at example dot com,-50,Gold,123‑4567
+517,Eve,33,05-02-2021,eve@mail.com,300,Gold,345‑6789
+518,Eve,40,,eve at example dot com,120.5,gold,5678901
+519,Charlie,19,2021-06-10,charlie at example dot com,0,silver,4567890
+520,Ivan,48,2020/12/31,ivan@example.com,450.75,gold,2345678
+521,David,51,,david at example dot com,75.5,,345‑6789
+522,Eve,54,2021/03/15,eve@mail.com,300,Gold,345‑6789
+523,David,29,2021/03/15,david@example.com,200,silver,2345678
+524,Eve,63,2021-06-10,eve@example.com,300,silver,2345678
+525,Grace,41,2020/12/31,grace@example,200,Silver,4567890
+526,Ivan,25,2020/12/31,ivan@example,0,,345‑6789
+527,Grace,20,,grace at example dot com,-50,silver,
+528,Eve,30,,eve@example,200,Gold,345‑6789
+529,Jack,53,2020/12/31,jack@example,0,Gold,123‑4567
+530,Jack,50,,jack@example,0,silver,5678901
+531,Grace,27,2020/12/31,grace@example.com,-50,gold,5678901
+532,Jack,57,05-02-2021,jack@example.com,20,,123‑4567
+533,Eve,19,2020/12/31,eve@example.com,300,Gold,5678901
+534,Charlie,44,2021/03/15,charlie@example,,silver,2345678
+535,Grace,45,,grace@example.com,,Gold,5678901
+536,Bob,25,2020/12/31,bob@example,75.5,silver,5678901
+537,Ivan,19,2020/12/31,ivan@example.com,75.5,,123‑4567
+538,Jack,41,,jack@example.com,,silver,4567890
+539,Jack,50,05-02-2021,jack@mail.com,120.5,Silver,5678901
+540,Alice,28,05-02-2021,alice at example dot com,,silver,
+541,Frank,58,,frank@example,75.5,silver,5678901
+542,Grace,25,2021/01/05,grace@mail.com,450.75,,4567890
+543,Hannah,31,,hannah@example.com,75.5,silver,123‑4567
+544,Jack,56,,jack@example,120.5,,4567890
+545,Ivan,41,05-02-2021,ivan@example.com,300,Silver,123‑4567
+546,Bob,21,05-02-2021,bob at example dot com,,,2345678
+547,Jack,27,,jack@mail.com,-50,Gold,123‑4567
+548,Bob,50,,bob at example dot com,450.75,,2345678
+549,Eve,40,,eve@mail.com,0,Silver,2345678
+550,Eve,31,05-02-2021,eve@example.com,120.5,Platinum,123‑4567
+551,Frank,54,,frank at example dot com,75.5,silver,
+552,Charlie,24,,charlie at example dot com,-50,,345‑6789
+553,Hannah,21,2021-06-10,hannah@example.com,200,silver,123‑4567
+554,Alice,64,2021/01/05,alice at example dot com,20,gold,5678901
+555,Frank,42,2021/03/15,frank@example,,Gold,
+556,David,34,2021/01/05,david@mail.com,20,Gold,
+557,Alice,22,2021-06-10,alice@mail.com,120.5,gold,5678901
+558,Grace,53,2021/03/15,grace@mail.com,200,gold,345‑6789
+559,Ivan,64,,ivan@example,200,,
+560,David,29,2021-06-10,david@mail.com,200,gold,2345678
+561,David,44,,david@example.com,0,Platinum,345‑6789
+562,Frank,21,05-02-2021,frank at example dot com,120.5,silver,5678901
+563,Charlie,29,2020/12/31,charlie@example,300,silver,345‑6789
+564,Frank,33,2021-06-10,frank@mail.com,20,Silver,123‑4567
+565,Grace,66,05-02-2021,grace@example.com,300,gold,345‑6789
+566,Jack,56,2021-06-10,jack at example dot com,-50,gold,2345678
+567,Jack,61,2021-06-10,jack at example dot com,450.75,Platinum,123‑4567
+568,Charlie,48,05-02-2021,charlie@example,450.75,Gold,4567890
+569,Grace,45,2021/03/15,grace@example,300,Gold,5678901
+570,Charlie,67,2021/01/05,charlie@example,,silver,5678901
+571,Bob,19,,bob@example.com,-50,silver,345‑6789
+572,Jack,56,2021-06-10,jack@example.com,120.5,,
+573,David,50,,david@example,75.5,Platinum,123‑4567
+574,Hannah,56,2020/12/31,hannah@mail.com,450.75,Silver,4567890
+575,Ivan,43,05-02-2021,ivan at example dot com,75.5,Silver,123‑4567
+576,Grace,29,,grace at example dot com,-50,Platinum,5678901
+577,Alice,61,05-02-2021,alice@example.com,20,Silver,123‑4567
+578,Charlie,49,,charlie at example dot com,450.75,Gold,4567890
+579,Ivan,22,2021/01/05,ivan@mail.com,,Silver,
+580,Alice,40,2021/01/05,alice at example dot com,,Silver,345‑6789
+581,Ivan,35,2021/01/05,ivan@example.com,200,Platinum,2345678
+582,Hannah,32,2021/01/05,hannah@example.com,0,Platinum,123‑4567
+583,Alice,56,2021/01/05,alice@mail.com,-50,Silver,2345678
+584,Frank,44,2021/01/05,frank@mail.com,450.75,gold,5678901
+585,Eve,49,05-02-2021,eve at example dot com,0,Platinum,345‑6789
+586,Frank,64,2021-06-10,frank at example dot com,-50,,345‑6789
+587,Jack,57,,jack@example.com,300,,123‑4567
+588,Eve,29,2021/01/05,eve@mail.com,120.5,Gold,
+589,Frank,59,05-02-2021,frank@mail.com,120.5,Silver,345‑6789
+590,Eve,61,05-02-2021,eve@mail.com,200,gold,123‑4567
+591,Eve,41,05-02-2021,eve at example dot com,200,Gold,123‑4567
+592,David,69,2021-06-10,david@mail.com,120.5,Silver,2345678
+593,Charlie,58,,charlie@example.com,20,Platinum,345‑6789
+594,Charlie,52,2021-06-10,charlie@example.com,450.75,,123‑4567
+595,David,43,2021/03/15,david at example dot com,120.5,silver,2345678
+596,Ivan,54,05-02-2021,ivan@example,20,gold,4567890
+597,Bob,23,2021/03/15,bob at example dot com,0,silver,2345678
+598,Ivan,21,2020/12/31,ivan@example,20,,2345678
+599,Alice,59,2021/01/05,alice@mail.com,0,silver,123‑4567
+600,Alice,61,2021/01/05,alice at example dot com,-50,Platinum,5678901
+601,Eve,67,2021-06-10,eve@example.com,75.5,Silver,5678901
+602,Frank,47,,frank@mail.com,-50,Platinum,
+603,Frank,39,2021/03/15,frank@example.com,120.5,silver,5678901
+604,Charlie,58,,charlie@mail.com,0,Platinum,2345678
+605,Grace,26,2021-06-10,grace at example dot com,120.5,,
+606,Ivan,48,2021/01/05,ivan@example,450.75,gold,123‑4567
+607,Jack,59,,jack@mail.com,,Platinum,345‑6789
+608,Hannah,69,,hannah@example,120.5,,2345678
+609,Frank,46,2021/01/05,frank@mail.com,450.75,gold,2345678
+610,Hannah,55,2021/03/15,hannah@example.com,20,Silver,
+611,Eve,47,2021/01/05,eve@example.com,-50,silver,123‑4567
+612,Hannah,34,,hannah@mail.com,20,Silver,4567890
+613,Jack,52,2021/03/15,jack@example,,Gold,2345678
+614,David,18,2021/03/15,david at example dot com,0,,4567890
+615,Jack,30,2021/01/05,jack at example dot com,450.75,gold,4567890
+616,Hannah,29,,hannah@example.com,75.5,Platinum,5678901
+617,Jack,45,2021-06-10,jack at example dot com,120.5,Silver,123‑4567
+618,Bob,28,,bob@example.com,0,gold,4567890
+619,Eve,55,05-02-2021,eve at example dot com,75.5,,123‑4567
+620,Ivan,18,2020/12/31,ivan@mail.com,300,Gold,5678901
+621,David,48,2021-06-10,david@example.com,120.5,Silver,123‑4567
+622,Frank,29,2021/03/15,frank@example.com,20,silver,2345678
+623,Alice,62,2021-06-10,alice@mail.com,-50,gold,4567890
+624,Ivan,43,2021/03/15,ivan@example.com,450.75,silver,123‑4567
+625,Alice,65,2021/03/15,alice at example dot com,,gold,345‑6789
+626,Eve,57,2021-06-10,eve at example dot com,,gold,123‑4567
+627,David,33,2021/03/15,david@example.com,20,,4567890
+628,Charlie,56,2021/03/15,charlie at example dot com,200,,5678901
+629,Frank,47,05-02-2021,frank@example,,,5678901
+630,Bob,50,,bob@example.com,450.75,Platinum,4567890
+631,Charlie,40,,charlie@mail.com,20,gold,2345678
+632,Eve,61,2020/12/31,eve@example,0,Silver,2345678
+633,Ivan,51,2020/12/31,ivan@example.com,,silver,5678901
+634,Bob,64,05-02-2021,bob@mail.com,20,,5678901
+635,Jack,22,2020/12/31,jack at example dot com,450.75,,4567890
+636,Hannah,35,2021-06-10,hannah@mail.com,120.5,silver,2345678
+637,Bob,46,2021/01/05,bob@example,120.5,silver,5678901
+638,Eve,23,2021/01/05,eve at example dot com,,gold,2345678
+639,Grace,26,2021/01/05,grace@example.com,-50,,5678901
+640,Hannah,57,05-02-2021,hannah at example dot com,120.5,silver,123‑4567
+641,Alice,48,05-02-2021,alice@example.com,-50,Platinum,345‑6789
+642,Frank,50,2021/03/15,frank@example.com,0,Platinum,
+643,Alice,44,2021/01/05,alice@mail.com,20,,123‑4567
+644,Bob,31,2021-06-10,bob@mail.com,75.5,silver,
+645,Alice,46,2020/12/31,alice@mail.com,450.75,gold,5678901
+646,Eve,53,2021-06-10,eve@example,20,gold,345‑6789
+647,Jack,45,2020/12/31,jack@example,450.75,gold,345‑6789
+648,Ivan,38,2021/01/05,ivan@mail.com,0,Gold,5678901
+649,Frank,20,2021/01/05,frank@example,300,,5678901
+650,Alice,36,2021/01/05,alice at example dot com,,gold,2345678
+651,Alice,48,05-02-2021,alice at example dot com,450.75,Platinum,5678901
+652,Bob,52,2020/12/31,bob@example,450.75,silver,4567890
+653,Ivan,66,05-02-2021,ivan@example,-50,Silver,5678901
+654,Charlie,20,05-02-2021,charlie at example dot com,20,Silver,4567890
+655,Alice,43,,alice@example.com,300,gold,5678901
+656,Eve,33,2021-06-10,eve at example dot com,200,Silver,2345678
+657,Grace,28,2021-06-10,grace at example dot com,,Silver,4567890
+658,Frank,38,2021/03/15,frank@example,75.5,Gold,123‑4567
+659,Alice,33,05-02-2021,alice at example dot com,200,Platinum,4567890
+660,Eve,26,2020/12/31,eve@example,20,Platinum,2345678
+661,Eve,,,eve@example,,Gold,
+662,Frank,38,,frank@mail.com,450.75,Gold,4567890
+663,Charlie,42,2021-06-10,charlie at example dot com,75.5,Silver,5678901
+664,Eve,34,05-02-2021,eve@example.com,-50,,5678901
+665,Grace,66,2021/03/15,grace@mail.com,300,silver,
+666,Eve,30,05-02-2021,eve@example,-50,silver,2345678
+667,Eve,63,2021/01/05,eve@example,0,Silver,345‑6789
+668,Eve,45,05-02-2021,eve@example.com,,silver,5678901
+669,Jack,28,2021/01/05,jack@example,-50,Gold,123‑4567
+670,Jack,52,2021/01/05,jack at example dot com,200,Platinum,2345678
+671,Charlie,51,2021/03/15,charlie@mail.com,-50,silver,4567890
+672,Alice,68,2020/12/31,alice@example,120.5,Silver,4567890
+673,Eve,28,2021-06-10,eve@example,0,,123‑4567
+674,Ivan,23,05-02-2021,ivan@example.com,20,Silver,5678901
+675,Alice,45,2021/01/05,alice at example dot com,300,gold,2345678
+676,Charlie,27,05-02-2021,charlie@example,0,Silver,123‑4567
+677,David,49,2020/12/31,david@example.com,120.5,Gold,5678901
+678,Alice,22,2021-06-10,alice@example,,Platinum,2345678
+679,Alice,63,2020/12/31,alice@example.com,200,Platinum,4567890
+680,Hannah,31,2021-06-10,hannah@example.com,300,silver,2345678
+681,Bob,48,,bob at example dot com,300,Gold,
+682,Hannah,67,2021-06-10,hannah@example,0,gold,345‑6789
+683,Grace,27,2021/03/15,grace at example dot com,,Gold,2345678
+684,Jack,39,2020/12/31,jack@example.com,450.75,Silver,345‑6789
+685,Jack,42,2021/01/05,jack@mail.com,120.5,Gold,2345678
+686,Bob,50,,bob@example,450.75,Gold,345‑6789
+687,Frank,62,2021/03/15,frank@mail.com,200,gold,
+688,Frank,50,05-02-2021,frank@example,,Silver,4567890
+689,Charlie,45,2020/12/31,charlie at example dot com,,,5678901
+690,Bob,20,2021/01/05,bob at example dot com,120.5,,345‑6789
+691,Alice,33,2021-06-10,alice at example dot com,75.5,Platinum,
+692,Frank,51,2021/01/05,frank at example dot com,450.75,silver,345‑6789
+693,Eve,29,05-02-2021,eve at example dot com,-50,Gold,4567890
+694,Ivan,57,,ivan@mail.com,300,Platinum,345‑6789
+695,Alice,55,,alice at example dot com,75.5,gold,
+696,Grace,31,2020/12/31,grace@example.com,-50,,
+697,Eve,45,,eve@example.com,120.5,Gold,123‑4567
+698,Eve,45,2020/12/31,eve@mail.com,300,gold,4567890
+699,Bob,27,2020/12/31,bob@example,20,silver,123‑4567
+700,Charlie,68,2020/12/31,charlie@example.com,-50,gold,4567890
+701,Grace,48,2021-06-10,grace@example,75.5,Gold,345‑6789
+702,Frank,18,2021/03/15,frank@mail.com,-50,silver,
+703,Bob,63,2020/12/31,bob@example,-50,gold,123‑4567
+704,Frank,30,2020/12/31,frank@example,120.5,silver,345‑6789
+705,Bob,36,2021/03/15,bob@example,450.75,Gold,
+706,Bob,38,2021/01/05,bob@example,20,Gold,4567890
+707,Bob,27,2020/12/31,bob@mail.com,120.5,silver,
+708,Charlie,43,2021-06-10,charlie@example.com,200,Silver,345‑6789
+709,Bob,19,,bob at example dot com,120.5,Platinum,123‑4567
+710,David,33,,david@example,300,gold,123‑4567
+711,Ivan,60,05-02-2021,ivan@example.com,20,gold,
+712,Frank,44,05-02-2021,frank@example.com,,Silver,345‑6789
+713,Alice,45,,alice@mail.com,200,Silver,2345678
+714,Hannah,37,,hannah@example.com,0,Silver,4567890
+715,Grace,63,2021-06-10,grace@mail.com,120.5,,4567890
+716,Jack,32,2021/03/15,jack@example,-50,,345‑6789
+717,Charlie,53,05-02-2021,charlie@example,450.75,silver,2345678
+718,Alice,36,2021/03/15,alice at example dot com,,,123‑4567
+719,Eve,22,2021-06-10,eve at example dot com,120.5,Gold,5678901
+720,David,35,,david at example dot com,120.5,silver,5678901
+721,Jack,21,2020/12/31,jack@example.com,75.5,gold,345‑6789
+722,Hannah,19,2021/03/15,hannah@example,75.5,Platinum,2345678
+723,Alice,,,alice@mail.com,,Gold,2345678
+724,Jack,54,,jack at example dot com,75.5,gold,4567890
+725,Alice,31,2021/01/05,alice@mail.com,-50,gold,123‑4567
+726,David,50,2021/03/15,david@mail.com,200,silver,
+727,Hannah,51,2020/12/31,hannah at example dot com,0,Silver,2345678
+728,Eve,65,2021/03/15,eve@example,20,Silver,
+729,Bob,41,,bob at example dot com,0,Gold,5678901
+730,Frank,40,2020/12/31,frank@mail.com,0,Silver,
+731,Eve,28,2021-06-10,eve at example dot com,20,gold,123‑4567
+732,Bob,34,2021/01/05,bob@mail.com,75.5,Silver,123‑4567
+733,Charlie,31,,charlie@mail.com,,,
+734,Ivan,60,05-02-2021,ivan at example dot com,20,Silver,345‑6789
+735,Grace,32,05-02-2021,grace@example.com,300,gold,2345678
+736,Grace,43,2021/01/05,grace at example dot com,200,silver,345‑6789
+737,Frank,24,2021-06-10,frank@example.com,450.75,Gold,
+738,Hannah,62,,hannah@mail.com,75.5,Platinum,2345678
+739,David,41,2021/03/15,david@mail.com,20,Silver,4567890
+740,Hannah,33,2021/01/05,hannah@example.com,300,gold,345‑6789
+741,David,45,2021-06-10,david@mail.com,450.75,Platinum,345‑6789
+742,Hannah,69,2021/03/15,hannah@example.com,200,Platinum,
+743,Ivan,24,05-02-2021,ivan@example.com,200,,5678901
+744,Charlie,31,05-02-2021,charlie@mail.com,75.5,Platinum,
+745,Charlie,43,2021/03/15,charlie@example,20,silver,345‑6789
+746,Bob,62,2021/01/05,bob@example.com,,gold,2345678
+747,Jack,66,05-02-2021,jack at example dot com,200,gold,5678901
+748,Charlie,68,,charlie at example dot com,,Silver,
+749,Charlie,23,2020/12/31,charlie@mail.com,,Silver,
+750,Eve,19,2021/03/15,eve@example,75.5,Silver,345‑6789
+751,Eve,45,2021/03/15,eve@mail.com,450.75,silver,345‑6789
+752,Bob,60,05-02-2021,bob@example,120.5,Platinum,4567890
+753,Jack,69,2021/01/05,jack@example.com,0,Platinum,
+754,Frank,40,,frank@example.com,0,,345‑6789
+755,Eve,19,2021/01/05,eve@example.com,200,silver,123‑4567
+756,Frank,36,2021-06-10,frank@example.com,120.5,Silver,5678901
+757,Alice,62,2021-06-10,alice at example dot com,450.75,Gold,123‑4567
+758,Eve,31,2020/12/31,eve at example dot com,120.5,,5678901
+759,Ivan,41,05-02-2021,ivan@mail.com,75.5,Gold,
+760,Jack,46,05-02-2021,jack@example,200,Platinum,4567890
+761,Bob,30,05-02-2021,bob@example.com,,,345‑6789
+762,Alice,23,2020/12/31,alice@example.com,200,,345‑6789
+763,Jack,33,2021-06-10,jack@example,0,gold,345‑6789
+764,Ivan,60,2021/01/05,ivan@example,450.75,Platinum,
+765,Jack,36,2020/12/31,jack@mail.com,120.5,Platinum,5678901
+766,Ivan,52,2020/12/31,ivan@example,450.75,silver,345‑6789
+767,Ivan,25,2021/01/05,ivan@example.com,75.5,,123‑4567
+768,Frank,54,05-02-2021,frank@example.com,200,Platinum,345‑6789
+769,Hannah,64,,hannah@example.com,20,,
+770,Alice,38,2021/01/05,alice@example.com,200,silver,4567890
+771,Jack,69,2021-06-10,jack@example.com,,silver,123‑4567
+772,David,69,2021/03/15,david@mail.com,200,gold,345‑6789
+773,Alice,18,2021/03/15,alice@example.com,300,,345‑6789
+774,Hannah,40,2020/12/31,hannah@mail.com,75.5,Platinum,2345678
+775,Alice,24,2021/03/15,alice@example.com,-50,Platinum,5678901
+776,Charlie,27,,charlie at example dot com,75.5,,123‑4567
+777,David,29,05-02-2021,david at example dot com,120.5,,2345678
+778,Hannah,33,2021-06-10,hannah at example dot com,-50,,4567890
+779,Frank,24,,frank at example dot com,120.5,Silver,5678901
+780,Jack,37,2021-06-10,jack@mail.com,120.5,Platinum,123‑4567
+781,Grace,34,2021-06-10,grace@mail.com,,silver,345‑6789
+782,Hannah,46,05-02-2021,hannah@example,,Platinum,123‑4567
+783,Bob,34,2020/12/31,bob@example.com,0,Silver,345‑6789
+784,Jack,62,2021/03/15,jack at example dot com,0,,5678901
+785,Hannah,63,05-02-2021,hannah@mail.com,20,gold,345‑6789
+786,Charlie,47,,charlie@example.com,-50,,4567890
+787,Grace,54,2020/12/31,grace@example.com,450.75,,
+788,Charlie,48,,charlie@mail.com,200,Silver,345‑6789
+789,Grace,27,2020/12/31,grace at example dot com,200,Platinum,4567890
+790,Bob,61,,bob@example,120.5,,
+791,Jack,41,05-02-2021,jack@example.com,0,Platinum,5678901
+792,Frank,49,2020/12/31,frank@example,120.5,Gold,5678901
+793,Charlie,54,2020/12/31,charlie at example dot com,300,silver,123‑4567
+794,Charlie,57,2021-06-10,charlie at example dot com,300,Platinum,4567890
+795,Ivan,24,2021-06-10,ivan@example,450.75,gold,4567890
+796,Grace,27,2021/01/05,grace at example dot com,,silver,2345678
+797,Eve,38,,eve@example.com,,gold,2345678
+798,Jack,67,2021-06-10,jack@example,0,,
+799,Grace,40,2021/01/05,grace at example dot com,0,silver,
+800,Ivan,57,2021-06-10,ivan@example,300,Platinum,2345678
+801,Alice,33,,alice@example.com,,silver,
+802,Grace,28,2020/12/31,grace at example dot com,-50,,345‑6789
+803,Frank,62,2021/03/15,frank@example.com,-50,Silver,2345678
+804,Jack,48,,jack at example dot com,0,gold,4567890
+805,Ivan,31,05-02-2021,ivan@mail.com,120.5,,345‑6789
+806,Alice,32,2021-06-10,alice at example dot com,,Silver,
+807,David,38,2021-06-10,david@example,-50,silver,5678901
+808,Ivan,44,2020/12/31,ivan at example dot com,,silver,123‑4567
+809,David,36,05-02-2021,david@example.com,75.5,,2345678
+810,Jack,49,2020/12/31,jack@example.com,200,Platinum,5678901
+811,Charlie,26,05-02-2021,charlie at example dot com,300,silver,
+812,Ivan,56,2021/03/15,ivan@example,,Platinum,4567890
+813,Bob,48,2021-06-10,bob@mail.com,200,Platinum,123‑4567
+814,David,66,2021-06-10,david@example,75.5,Platinum,5678901
+815,Frank,49,2021/03/15,frank@mail.com,,Gold,123‑4567
+816,Bob,18,2021/01/05,bob@example.com,0,Silver,2345678
+817,Hannah,49,2020/12/31,hannah@example,200,Silver,
+818,Hannah,49,2021/03/15,hannah@mail.com,,silver,4567890
+819,Alice,57,2020/12/31,alice at example dot com,200,silver,
+820,Charlie,29,,charlie@example.com,75.5,Platinum,123‑4567
+821,Jack,46,2021-06-10,jack at example dot com,,Gold,5678901
+822,Ivan,49,2020/12/31,ivan@example.com,,Platinum,2345678
+823,Eve,29,05-02-2021,eve@example,,Gold,2345678
+824,Frank,68,2020/12/31,frank@example,450.75,Platinum,
+825,David,42,,david@example.com,0,gold,5678901
+826,Jack,38,2021-06-10,jack@example.com,75.5,gold,5678901
+827,Bob,55,2021/03/15,bob@example.com,450.75,,123‑4567
+828,Hannah,18,,hannah@example,120.5,Platinum,
+829,Frank,54,2021-06-10,frank@mail.com,450.75,silver,
+830,Eve,55,2020/12/31,eve at example dot com,300,Silver,345‑6789
+831,Ivan,42,2021/01/05,ivan at example dot com,300,,
+832,Alice,62,2021/01/05,alice@example,,silver,2345678
+833,Eve,66,05-02-2021,eve at example dot com,450.75,gold,123‑4567
+834,Frank,31,2021-06-10,frank@example.com,120.5,Platinum,5678901
+835,Eve,50,2021/01/05,eve@mail.com,450.75,,
+836,Frank,58,2021/03/15,frank at example dot com,0,Platinum,123‑4567
+837,Frank,60,2021-06-10,frank@mail.com,0,gold,
+838,Grace,65,2021/03/15,grace@example.com,120.5,,5678901
+839,David,56,2021/03/15,david at example dot com,450.75,gold,4567890
+840,Hannah,27,2021/01/05,hannah@example,200,Gold,5678901
+841,Grace,19,2021-06-10,grace@mail.com,0,gold,5678901
+842,Ivan,22,2020/12/31,ivan@example.com,0,Platinum,5678901
+843,Grace,25,,grace@mail.com,-50,Silver,
+844,Charlie,22,2021/01/05,charlie at example dot com,450.75,gold,345‑6789
+845,Charlie,25,2021/01/05,charlie at example dot com,0,silver,5678901
+846,Hannah,55,2020/12/31,hannah@example,75.5,Silver,2345678
+847,Eve,47,2021-06-10,eve@example.com,450.75,Gold,2345678
+848,David,48,2021-06-10,david@example.com,300,,123‑4567
+849,Hannah,57,2021/03/15,hannah@example,-50,,345‑6789
+850,Frank,66,2020/12/31,frank@example,0,Silver,123‑4567
+851,Bob,28,2020/12/31,bob@example.com,-50,,2345678
+852,David,24,2021-06-10,david@mail.com,300,gold,2345678
+853,David,24,2021/03/15,david@mail.com,120.5,Silver,4567890
+854,Frank,66,2021/01/05,frank@example,120.5,Platinum,5678901
+855,Frank,44,05-02-2021,frank@mail.com,450.75,gold,2345678
+856,Alice,36,,alice@example.com,300,gold,
+857,Hannah,63,2021/01/05,hannah at example dot com,20,gold,
+858,Frank,23,2021-06-10,frank at example dot com,20,Platinum,123‑4567
+859,Charlie,27,,charlie@mail.com,450.75,Gold,123‑4567
+860,Ivan,36,05-02-2021,ivan@example,,silver,5678901
+861,Bob,32,05-02-2021,bob@example,-50,,5678901
+862,Hannah,20,2021/03/15,hannah@example,-50,Silver,4567890
+863,Jack,22,,jack@example,120.5,Gold,345‑6789
+864,Charlie,38,2021/03/15,charlie@example,20,Silver,123‑4567
+865,Eve,42,2021/01/05,eve@mail.com,0,,5678901
+866,Frank,19,2020/12/31,frank at example dot com,0,Platinum,123‑4567
+867,Jack,57,2020/12/31,jack at example dot com,0,gold,5678901
+868,Frank,58,2020/12/31,frank@mail.com,120.5,gold,2345678
+869,David,30,,david@example,300,Platinum,123‑4567
+870,Charlie,27,2020/12/31,charlie@mail.com,200,Gold,2345678
+871,David,34,2021/01/05,david at example dot com,20,Gold,123‑4567
+872,Alice,28,2021/03/15,alice@example.com,20,Silver,345‑6789
+873,David,39,,david@mail.com,-50,Platinum,4567890
+874,Alice,28,2021/03/15,alice@example,,Gold,
+875,Alice,29,,alice at example dot com,450.75,Platinum,
+876,Jack,41,2021/03/15,jack at example dot com,-50,,
+877,Frank,61,05-02-2021,frank at example dot com,300,gold,2345678
+878,Eve,67,2021/03/15,eve at example dot com,450.75,gold,5678901
+879,David,35,2020/12/31,david@example,20,gold,
+880,Charlie,62,05-02-2021,charlie@example.com,300,Platinum,345‑6789
+881,Alice,52,2021/03/15,alice at example dot com,450.75,Platinum,
+882,Frank,61,,frank@mail.com,75.5,Silver,123‑4567
+883,Bob,24,,bob@example.com,200,gold,2345678
+884,Hannah,45,,hannah at example dot com,20,Silver,123‑4567
+885,Jack,69,2021-06-10,jack@example.com,,gold,123‑4567
+886,Eve,48,2021/01/05,eve@mail.com,0,Silver,123‑4567
+887,Grace,67,,grace at example dot com,75.5,Silver,4567890
+888,Jack,60,05-02-2021,jack@mail.com,0,,4567890
+889,Bob,34,,bob@example,200,Silver,5678901
+890,Hannah,22,2021-06-10,hannah at example dot com,450.75,Platinum,2345678
+891,Bob,34,2020/12/31,bob at example dot com,120.5,Silver,345‑6789
+892,David,35,05-02-2021,david at example dot com,,gold,345‑6789
+893,Alice,38,2021-06-10,alice at example dot com,200,Silver,345‑6789
+894,Eve,53,2020/12/31,eve@example,0,Gold,123‑4567
+895,Ivan,48,05-02-2021,ivan at example dot com,75.5,silver,4567890
+896,Alice,57,2021/03/15,alice@example.com,20,gold,2345678
+897,Ivan,19,2021/01/05,ivan at example dot com,75.5,Gold,123‑4567
+898,Hannah,44,2021/01/05,hannah@example,75.5,gold,4567890
+899,Frank,26,2021-06-10,frank at example dot com,120.5,Platinum,4567890
+900,Grace,67,2020/12/31,grace@example.com,120.5,silver,
+901,Charlie,51,2021/01/05,charlie@example,300,silver,
+902,Alice,45,2020/12/31,alice@example,300,Platinum,2345678
+903,Eve,31,2020/12/31,eve@example.com,450.75,silver,2345678
+904,Bob,49,2021-06-10,bob@example.com,300,Platinum,2345678
+905,Eve,23,2021-06-10,eve@example.com,-50,Gold,123‑4567
+906,Hannah,28,2021-06-10,hannah@example.com,,,5678901
+907,Ivan,65,2021/01/05,ivan@example.com,-50,gold,2345678
+908,Bob,46,2021-06-10,bob@example,-50,Platinum,
+909,Charlie,37,2021/01/05,charlie@example,0,gold,5678901
+910,Charlie,47,2021-06-10,charlie at example dot com,200,Gold,123‑4567
+911,Alice,40,,alice at example dot com,-50,,5678901
+912,Hannah,36,2020/12/31,hannah@mail.com,,Gold,345‑6789
+913,Frank,53,2021-06-10,frank at example dot com,120.5,silver,5678901
+914,Hannah,20,05-02-2021,hannah at example dot com,450.75,gold,2345678
+915,Ivan,44,2020/12/31,ivan@example.com,0,,123‑4567
+916,Eve,60,2020/12/31,eve@example.com,120.5,silver,2345678
+917,Charlie,36,2021-06-10,charlie at example dot com,0,,
+918,Eve,40,2021/03/15,eve@mail.com,,silver,345‑6789
+919,Eve,66,2021-06-10,eve@example.com,75.5,Gold,
+920,Eve,65,2020/12/31,eve at example dot com,20,Platinum,2345678
+921,Charlie,67,05-02-2021,charlie at example dot com,200,gold,2345678
+922,Jack,48,2020/12/31,jack@example,120.5,Silver,2345678
+923,David,57,05-02-2021,david@mail.com,200,Silver,4567890
+924,Ivan,52,2021/01/05,ivan@example,75.5,Gold,345‑6789
+925,Jack,69,,jack@mail.com,20,gold,2345678
+926,Ivan,50,2020/12/31,ivan@example.com,200,gold,2345678
+927,Bob,52,2021-06-10,bob@mail.com,200,Gold,
+928,Hannah,18,2021/01/05,hannah at example dot com,120.5,gold,
+929,Hannah,31,,hannah at example dot com,300,Platinum,2345678
+930,Grace,50,2021-06-10,grace@mail.com,20,Gold,123‑4567
+931,Hannah,52,2021/03/15,hannah@mail.com,75.5,Platinum,4567890
+932,Charlie,22,2021-06-10,charlie@mail.com,20,gold,
+933,Frank,55,05-02-2021,frank@example,,Gold,123‑4567
+934,Alice,58,05-02-2021,alice@mail.com,300,gold,4567890
+935,Grace,67,2021/03/15,grace@example.com,,Gold,2345678
+936,Alice,67,2021/01/05,alice@example,75.5,gold,345‑6789
+937,Ivan,28,,ivan@example,120.5,Platinum,5678901
+938,Alice,19,2021-06-10,alice@mail.com,120.5,Platinum,5678901
+939,Alice,61,05-02-2021,alice@example.com,75.5,gold,2345678
+940,Grace,34,2021/01/05,grace@example,0,Gold,
+941,Bob,56,2021/03/15,bob at example dot com,75.5,Silver,123‑4567
+942,Eve,37,2020/12/31,eve@example,300,Platinum,345‑6789
+943,Hannah,31,05-02-2021,hannah@mail.com,-50,Platinum,4567890
+944,Hannah,49,2021/03/15,hannah@example.com,120.5,silver,2345678
+945,Charlie,51,2021-06-10,charlie@mail.com,450.75,Silver,345‑6789
+946,Grace,42,,grace at example dot com,300,gold,345‑6789
+947,Charlie,24,05-02-2021,charlie at example dot com,300,Gold,
+948,Frank,52,05-02-2021,frank at example dot com,300,silver,4567890
+949,Frank,64,2021-06-10,frank@mail.com,200,gold,345‑6789
+950,Charlie,46,2020/12/31,charlie@example,300,,
+951,Grace,39,2021/01/05,grace@mail.com,120.5,Platinum,123‑4567
+952,Charlie,58,,charlie@example.com,-50,,
+953,Hannah,60,05-02-2021,hannah@example,-50,Platinum,123‑4567
+954,Jack,30,,jack at example dot com,300,Platinum,123‑4567
+955,David,30,05-02-2021,david@mail.com,,,345‑6789
+956,Alice,18,,alice at example dot com,120.5,,
+957,David,53,2021/03/15,david at example dot com,120.5,gold,123‑4567
+958,Grace,21,05-02-2021,grace@example.com,20,silver,4567890
+959,David,54,,david@example,0,silver,345‑6789
+960,Frank,61,2021/01/05,frank@example.com,0,,
+961,Ivan,57,2021/03/15,ivan@example.com,,gold,
+962,Alice,63,2021/03/15,alice@example.com,0,silver,5678901
+963,Eve,30,2021/01/05,eve at example dot com,20,gold,
+964,Grace,55,,grace@example.com,75.5,gold,345‑6789
+965,Alice,41,2021-06-10,alice@example.com,0,Platinum,4567890
+966,David,36,2021/01/05,david@example,120.5,silver,
+967,Frank,18,,frank@example,75.5,silver,5678901
+968,Bob,55,2021/01/05,bob@example.com,0,Platinum,345‑6789
+969,Jack,22,2021/01/05,jack@example,120.5,,123‑4567
+970,Eve,33,05-02-2021,eve@example,120.5,Platinum,2345678
+971,Jack,41,,jack@example.com,300,silver,2345678
+972,Alice,44,2021-06-10,alice at example dot com,-50,silver,123‑4567
+973,Frank,18,05-02-2021,frank@example.com,,,
+974,Frank,51,2021/01/05,frank@example,20,Platinum,2345678
+975,David,53,2020/12/31,david at example dot com,200,Gold,2345678
+976,Hannah,21,2021/01/05,hannah@mail.com,0,Gold,123‑4567
+977,David,,2021/01/05,david at example dot com,0,,
+978,Hannah,56,,hannah@example,75.5,Platinum,
+979,Hannah,28,,hannah at example dot com,75.5,Platinum,123‑4567
+980,Eve,52,05-02-2021,eve@example.com,0,gold,
+981,David,61,2021-06-10,david@mail.com,450.75,silver,
+982,Bob,39,05-02-2021,bob@mail.com,20,Silver,345‑6789
+983,Charlie,63,2021/03/15,charlie@mail.com,0,,345‑6789
+984,Charlie,47,2021/01/05,charlie@example,-50,Silver,123‑4567
+985,David,27,2020/12/31,david@example,450.75,Silver,4567890
+986,David,26,2021/01/05,david@mail.com,20,,2345678
+987,Jack,19,2021/01/05,jack at example dot com,0,Platinum,345‑6789
+988,Eve,30,05-02-2021,eve@mail.com,200,,2345678
+989,David,32,2020/12/31,david at example dot com,300,Silver,5678901
+990,Jack,26,2020/12/31,jack at example dot com,-50,silver,123‑4567
+991,Hannah,45,2020/12/31,hannah@example,200,silver,4567890
+992,Frank,26,05-02-2021,frank at example dot com,75.5,silver,5678901
+993,Frank,28,2021/01/05,frank@mail.com,75.5,Platinum,5678901
+994,Hannah,46,05-02-2021,hannah@example,0,Gold,
+995,Grace,57,,grace@example.com,75.5,,5678901
+996,Jack,,,jack@example.com,-50,silver,123‑4567
+997,Jack,21,05-02-2021,jack@example,20,,345‑6789
+998,Hannah,36,2020/12/31,hannah@mail.com,120.5,silver,123‑4567
+999,Bob,24,2021/01/05,bob@example.com,,Platinum,345‑6789
+1000,Ivan,59,05-02-2021,ivan@example.com,20,Gold,5678901

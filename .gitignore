@@ -1,0 +1,91 @@
+# ===================================================================
+# A comprehensive .gitignore for Python Data Science & ML Projects
+# Covers: Python artifacts, virtual envs, data, models, notebooks,
+# IDE configs, secrets, and logs.
+# ===================================================================
+
+# --- Python & Package Management ---
+# Bytecode and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual Environments - Never commit these!
+# They are large and machine-specific. Commit requirements.txt instead.
+venv/
+.venv/
+env/
+.env/
+env.bak/
+venv.bak/
+
+# --- Data & Datasets ---
+# Large data files should not be in Git. Use DVC, Git LFS, or cloud storage.
+
+*.json
+*.jsonl
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.xls
+*.xlsx
+*.db
+*.sqlite3
+data/
+datasets/
+
+# --- ML Models & Artifacts ---
+# Trained models are large binary files derived from your code.
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.sav
+models/
+model/
+saved_models/
+
+# --- Jupyter Notebook & IDEs ---
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE-specific settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# --- System & OS Files ---
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+
+# --- Secrets & Environment Variables ---
+# CRITICAL: Never commit API keys, passwords, or other secrets!
+.env
+*.env
+secrets.yaml
+config.ini
+
+# --- Logs, Caches, & Reports ---
+# Log files
+*.log
+logs/
+
+# Testing & coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
